@@ -2,7 +2,7 @@ title: Fellowship-of-the-bus.GitHub.io
 description: Website
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
