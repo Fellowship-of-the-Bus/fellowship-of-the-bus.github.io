@@ -1,4 +1,4 @@
-# The Fellowship of the Bus
+![logo]
 
 The Fellowship of the Bus is a small hoppyist game development team made up of current and former students from the University of Waterloo, Ontario. 
 
@@ -11,11 +11,21 @@ The Fellowship of the Bus is a small hoppyist game development team made up of c
 
 ## Games
 
-* [Intergalactic Interlopers] an arcade space shooter game
+* [Intergalactic Interlopers]\: an arcade space shooter game
+![Intergalactic Interlopers](http://fellowship-of-the-bus.github.io/SpaceInvadersCoop/images/action.png)
+
 * [Two-Dimensional Tower Defense][tdtd]: a tower defense game
+![TDTD](http://fellowship-of-the-bus.github.io/tdtd/images/setup.png)
+
 * [The Elder Strolls: Hallow's Eve][Elder Strolls]: a side-scrolling beat 'em up game
+![The Elder Stolls: Hallow's Eve](http://fellowship-of-the-bus.github.io/Elder-Strolls-Hallows-Eve/images/screenshot.png)
+
 * [Minigun Madness]\: an arena shooter game
+![Minigun Madness](http://fellowship-of-the-bus.github.io/MinigunMadness/images/action.png)
+
 * [Brute Blitzkrieg]\: a puzzle game for Android
+![]()
+
 * [Draconia]\: a 3D strategy RPG (in development)
 
 
@@ -31,3 +41,5 @@ The Fellowship of the Bus is a small hoppyist game development team made up of c
 [Minigun Madness]: http://fellowship-of-the-bus.github.io/MinigunMadness/
 [Brute Blitzkrieg]: https://play.google.com/store/apps/details?id=com.github.fellowship_of_the_bus.bruteb&hl=en_SG
 [Draconia]: http://fellowship-of-the-bus.github.io/Draconia-Unity
+
+[logo]: images/FotB-Logo.png
